@@ -27,20 +27,27 @@
 | 49   | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | 연습문제     |
 
 
+6/27 문제
 
+| 번호 | 이름                                                         | 분류                 |
+| ---- | ------------------------------------------------------------ | --------------------       |
+| 2    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | 카카오             |
+| 4    | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | 마에스터                  |
+| 42   | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) | 연습문제    |
+| 43   | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) | 연습문제             |
+| 44   | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | 연습문제             |
+| 45   | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | 연습문제              |
 
 남은문제
 
 | 번호 | 이름                                                         | 분류                 |
 | ---- | ------------------------------------------------------------ | -------------------- |
-| 2    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | 카카오               |
-| 4    | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | 마에스터             |
 | 6    | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 고득점Kit            |
 | 7    | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 고득점Kit            |
 | 8    | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | Summer/Winter Coding |
 | 9    | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | 월간 코드 챌린지     |
 | 10   | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 고득점Kit            |
-| 11   | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 카카오               |
+| 11   | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 카카오      |
 | 12   | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | 월간 코드 챌린지     |
 | 13   | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | 월간 코드 챌린지     |
 | 14   | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | Summer/Winter Coding |
@@ -71,10 +78,7 @@
 | 39   | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | 연습문제             |
 | 40   | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) | 연습문제             |
 | 41   | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | 연습문제             |
-| 42   | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) | 연습문제             |
-| 43   | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) | 연습문제             |
-| 44   | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | 연습문제             |
-| 45   | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | 연습문제             |
+
 
 
 
