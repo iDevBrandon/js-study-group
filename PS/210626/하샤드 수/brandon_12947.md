@@ -1,5 +1,5 @@
 ```
-JavaScript
+
 
 function solution(x) {
     var answer = true;
