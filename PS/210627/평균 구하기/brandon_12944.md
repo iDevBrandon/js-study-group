@@ -1,5 +1,5 @@
 ```
-
+JavaScript
 
 function solution(arr) {
     var answer = 0;
