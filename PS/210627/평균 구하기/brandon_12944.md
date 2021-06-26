@@ -1,5 +1,6 @@
 ```
 
+
 function solution(arr) {
     var answer = 0;
     let total = 0;
