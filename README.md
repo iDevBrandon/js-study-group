@@ -38,19 +38,7 @@
 | 44   | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | 연습문제             |
 | 45   | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | 연습문제              |
 
-
 6/28 문제
-
-| 번호 | 이름                                                         | 분류                 |
-| ---- | ------------------------------------------------------------ | --------------------       |
-| 2    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | 카카오             |
-| 4    | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | 마에스터                  |
-| 42   | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) | 연습문제    |
-| 43   | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) | 연습문제             |
-| 44   | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | 연습문제             |
-| 45   | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | 연습문제              |
-
-6/29 문제
 
 | 번호 | 이름                                                         | 분류                 |
 | ---- | ------------------------------------------------------------ | --------------------       |
