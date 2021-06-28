@@ -50,27 +50,33 @@
 | 17   | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | 월간 코드 챌린지     |
 | 34   | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | 연습문제             |
 
+6/29 문제
+| 번호 | 이름                                                         | 분류                 |
+| ---- | ------------------------------------------------------------ | -------------------- |
+| 7    | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 고득점Kit            |
+| 13   | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | 월간 코드 챌린지     |
+| 19   | [[1차\]   비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | 카카오               |
+| 22   | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | 연습문제             |
+| 24   | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | 연습문제             |
+| 25   | [문자열 내 마음대로   정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | 연습문제             |
+| 40   | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) | 연습문제             |
+
+
 남은문제
 
 | 번호 | 이름                                                         | 분류                 |
 | ---- | ------------------------------------------------------------ | -------------------- |
-| 7    | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 고득점Kit            |
 | 8    | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | Summer/Winter Coding |
 | 9    | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | 월간 코드 챌린지     |
 | 10   | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 고득점Kit            |
 | 12   | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | 월간 코드 챌린지     |
-| 13   | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | 월간 코드 챌린지     |
 | 14   | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | Summer/Winter Coding |
 | 15   | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | 월간 코드 챌린지     |
 | 16   | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | 카카오               |
 | 18   | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | 연습문제             |
-| 19   | [[1차\]   비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | 카카오               |
 | 20   | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | 연습문제             |
 | 21   | [[1차\] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | 카카오               |
-| 22   | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | 연습문제             |
 | 23   | [나누어 떨어지는 숫자   배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | 연습문제             |
-| 24   | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | 연습문제             |
-| 25   | [문자열 내 마음대로   정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | 연습문제             |
 | 26   | [문자열 내 p와 y의   개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | 연습문제             |
 | 27   | [문자열 내림차순으로   배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | 연습문제             |           |
 | 29   | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | 연습문제             |
@@ -81,7 +87,6 @@
 | 37   | [자연수 뒤집어 배열로   만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) | 연습문제             |
 | 38   | [정수 내림차순으로   배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) | 연습문제             |
 | 39   | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | 연습문제             |
-| 40   | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) | 연습문제             |
 | 41   | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | 연습문제             |
 
 
@@ -92,6 +97,6 @@
 깃허브에 공유된 대표적인 CS 레포를 참고하면 좋을거 같습니다. 우선순위 정해서? DB, Network 등등...
 
 
- 
+
 ## ❗ Commit 규칙
 같이 정했으면 좋겟습니다. 
