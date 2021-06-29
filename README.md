@@ -61,14 +61,22 @@
 | 25   | [문자열 내 마음대로   정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | 연습문제             |
 | 40   | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) | 연습문제             |
 
+6/30 문제
+| 번호 | 이름                                                         | 분류                 |
+| ---- | ------------------------------------------------------------ | -------------------- |
+| 37   | [자연수 뒤집어 배열로   만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) | 연습문제             |
+| 38   | [정수 내림차순으로   배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) | 연습문제             |
+| 39   | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | 연습문제             |
+| 41   | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | 연습문제             |
+| 8    | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | Summer/Winter Coding |
+| 9    | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | 월간 코드 챌린지     |
+| 10   | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 고득점Kit            |
 
 남은문제
 
 | 번호 | 이름                                                         | 분류                 |
 | ---- | ------------------------------------------------------------ | -------------------- |
-| 8    | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | Summer/Winter Coding |
-| 9    | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | 월간 코드 챌린지     |
-| 10   | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 고득점Kit            |
+
 | 12   | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | 월간 코드 챌린지     |
 | 14   | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | Summer/Winter Coding |
 | 15   | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | 월간 코드 챌린지     |
@@ -84,10 +92,7 @@
 | 31   | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | 연습문제             |
 | 33   | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | 연습문제             |
 | 35   | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 연습문제             |
-| 37   | [자연수 뒤집어 배열로   만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) | 연습문제             |
-| 38   | [정수 내림차순으로   배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) | 연습문제             |
-| 39   | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | 연습문제             |
-| 41   | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | 연습문제             |
+
 
 
 
