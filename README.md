@@ -76,7 +76,6 @@
 
 | 번호 | 이름                                                         | 분류                 |
 | ---- | ------------------------------------------------------------ | -------------------- |
-
 | 12   | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | 월간 코드 챌린지     |
 | 14   | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | Summer/Winter Coding |
 | 15   | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | 월간 코드 챌린지     |
