@@ -72,25 +72,31 @@
 | 9    | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | 월간 코드 챌린지     |
 | 10   | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 고득점Kit            |
 
+
+7/1 문제
+| 번호 | 이름                                                         | 분류                 |
+| ---- | ------------------------------------------------------------ | -------------------- |
+| 16   | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | 카카오               |
+| 33   | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | 연습문제             |
+| 35   | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 연습문제             |
+| 14   | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | Summer/Winter Coding |
+| 23   | [나누어 떨어지는 숫자   배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | 연습문제             |
+| 30   | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | 연습문제             |
+| 26   | [문자열 내 p와 y의   개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | 연습문제             |
+
 남은문제
 
 | 번호 | 이름                                                         | 분류                 |
 | ---- | ------------------------------------------------------------ | -------------------- |
 | 12   | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | 월간 코드 챌린지     |
-| 14   | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | Summer/Winter Coding |
 | 15   | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | 월간 코드 챌린지     |
-| 16   | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | 카카오               |
 | 18   | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | 연습문제             |
 | 20   | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | 연습문제             |
 | 21   | [[1차\] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | 카카오               |
-| 23   | [나누어 떨어지는 숫자   배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | 연습문제             |
-| 26   | [문자열 내 p와 y의   개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | 연습문제             |
 | 27   | [문자열 내림차순으로   배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | 연습문제             |           |
 | 29   | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | 연습문제             |
-| 30   | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | 연습문제             |
 | 31   | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | 연습문제             |
-| 33   | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | 연습문제             |
-| 35   | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 연습문제             |
+
 
 
 
