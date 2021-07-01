@@ -84,7 +84,7 @@
 | 30   | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | 연습문제             |
 | 26   | [문자열 내 p와 y의   개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | 연습문제             |
 
-남은문제
+7/2 문제 
 
 | 번호 | 이름                                                         | 분류                 |
 | ---- | ------------------------------------------------------------ | -------------------- |
@@ -97,9 +97,9 @@
 | 29   | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | 연습문제             |
 | 31   | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | 연습문제             |
 
-
-
-
+7/4 2021 네이버웹툰 개발 챌린지
+21년 07월 04일 14:00 ~ 07월 04일 16:00
+다들 잘 보셧으면 좋겟습니다!
 
 
 
