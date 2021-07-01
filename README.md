@@ -97,6 +97,11 @@
 | 29   | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | 연습문제             |
 | 31   | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | 연습문제             |
 
+7/3 복습
+
+못푼 문제나 어려운 문제 알아서 복습 하시면 좋을거 같아요
+
+
 7/4 2021 네이버웹툰 개발 챌린지
 
 21년 07월 04일 14:00 ~ 07월 04일 16:00
