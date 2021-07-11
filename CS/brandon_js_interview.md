@@ -9,6 +9,8 @@ ex) 화살표 함수, call, bind, apply 등
 
 실행 컨택스트 
 
+call stack
+
 이벤트루프 
 
 프로토타입 
