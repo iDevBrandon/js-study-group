@@ -1,15 +1,28 @@
-1. Database
+🖥️ CS(Computer Science)
+1. 알고리즘 
 
 
 
-2. Network 
+2. 데이터 구조
 
 
 
+3. 네트워크
 
 
 
-CS 
+4. 데이터베이스 
+
+
+
+5. 운영채제 
+
+
+## 프론트앤드 개발자로써 필요한 지식
+
+
+
+## 개발 관련 링크
 
 [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
@@ -19,7 +32,7 @@ CS
 
 <br />
 
-JS Interview
+## 자바스크립트 링크
 
 (https://ko.javascript.info/)
 
