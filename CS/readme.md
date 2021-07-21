@@ -34,9 +34,9 @@
 
 ## 자바스크립트 링크
 
-(https://ko.javascript.info/)
+https://ko.javascript.info/
 
-(https://poiemaweb.com/)
+https://poiemaweb.com/
 
 [HTML Questions | Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/en/html-questions)
 
