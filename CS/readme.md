@@ -18,8 +18,8 @@
 5. 운영채제 
 
 
-## 프론트앤드 개발자로써 필요한 지식
-
+## 프론트엔드 개발자로써 필요한 지식
+[프엔 뭘공부해야 하나?](https://jbee.io/essay/for_junior_frontend_developer/)
 
 
 ## 개발 관련 링크
