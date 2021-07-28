@@ -22,7 +22,7 @@ call stack
 # 자바스크립트 동작원리
 자바스크립트는 stack이라는 공간이 있는데, 한번에 코드를 한줄밖에 실행못함. 이걸 싱글스래드라고함. 
 
-기다림이 필요한 코드들 : ajax, setTimeout 등등..
+기다림이 필요한 코드들 : 이벤트리스너, ajax, setTimeout 등등..
 Queue 라는 대기실에 줄을 세움. 
 
 stack이 비었을때만, queue에서 stack으로 명령 보내줄수 있음!!!
